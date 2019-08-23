@@ -1,0 +1,36 @@
+* {
+	margin: 0;
+	padding: 0;
+	border: 0;
+}
+
+article, aside, details, figcaption, figure, footer, header, main, nav, section, summary {
+    display:block;
+}
+
+html {
+  font-family: 'Livvic', sans-serif;
+  margin: 0 auto;
+}
+
+header, main {
+  margin: 2em;
+}
+
+h1 {
+  padding-bottom: 1em;
+}
+
+ul {
+  padding-bottom: 1em;
+}
+
+h2 {
+  padding-bottom: 0.5em;
+}
+
+footer {
+  background: black;
+  color: white;
+  text-align: center;
+}
